@@ -1,9 +1,11 @@
 # Mildred Updater
 
-This program is included as part of the game Mildred and provides update services.
+Provides update services for my game Mildred. 📦
 
 https://github.com/hexensemble/mildred
 
-Learning highlights:
-
-Developed a robust Swing-based updater with real-time logs, dynamic update fetching, HTTP handling, and efficient file management using buffered I/O and Zip utilities, ensuring cross-platform compatibility and resilience to errors.
+- Swing-based.
+- Real-time logs for transparent update tracking.
+- Dynamic update fetching with efficient HTTP handling.
+- Buffered I/O and Zip utilities for optimized file management.
+- Cross-platform compatibility with resilience to errors.
