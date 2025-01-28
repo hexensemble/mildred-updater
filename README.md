@@ -2,7 +2,7 @@
 
 Provides update services for my game Mildred. 📦
 
-https://github.com/hexensemble/mildred
+**Mildred:** https://github.com/hexensemble/mildred
 
 - Swing-based.
 - Real-time logs for transparent update tracking.
